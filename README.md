@@ -1,2 +1,2 @@
 # GiftSnapAI7
-new version of GiftSnapAI6
+new version of giftsnapai6

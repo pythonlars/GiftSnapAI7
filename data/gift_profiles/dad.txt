@@ -1,0 +1,9 @@
+Name: dad
+Year of birth: 1973
+Month of birth: 10
+Day of birth: 28
+Age: 52
+Hobbies: climbig, coding, biking, hiking
+Location: bern
+Job: CTO
+Social Media: 
